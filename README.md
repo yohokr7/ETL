@@ -9,4 +9,7 @@ This Repository contains the following:
 * [Project Report](Project_Report.md)
 * [ETL Code](ETL.ipynb)
 
-### Cleaned
+### Cleaned Data
+* [Birth Rates](cleaned_json/births_unmarried_uner_25.json)
+* [Incarceration Rates](cleaned_json/incarceration_rate.json)
+* [Property Crime Rates](cleaned_json/property_crime_rate.json)
